@@ -1,0 +1,8 @@
+const AuthActionTypes = {
+    SET_AUTH_DATA : 'SET_AUTH_DATA',
+    SET_LOCALLY_STORED_DATA : 'SET_LOCALLY_STORED_DATA',
+    GET_AUTH_DATA : 'GET_AUTH_DATA',
+    SET_LOGIN_REQUEST : 'SET_LOGIN_REQUEST',
+}
+
+export default AuthActionTypes
